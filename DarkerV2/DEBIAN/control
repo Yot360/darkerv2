@@ -1,0 +1,10 @@
+Package: com.yot.darkerv2
+Name: DarkerV2
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A dark theme with colorful icons!
+Author: Yot
+Maintainer: Yot
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Depiction: https://repo.yot-dev.ml/depiction/darkerv2/
